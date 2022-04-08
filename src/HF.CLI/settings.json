@@ -1,0 +1,13 @@
+{
+  "SenderPrivateKey": "",
+  "TokenAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+  "TokenDecimals": 18,
+  "SendingDurationInHours": 1,
+  "RecipientsMnemonicPhrase": "vacuum number leg junk suspect predict sheriff cereal budget seminar lizard rural",
+  "RecipientsAccountStartNumber": 0,
+  "RecipientsCount": 50,
+  "MinSendAmount": 0.000001,
+  "MaxSendAmount": 0.000100,
+  "ChainId": 97,
+  "NodeRpc": "https://data-seed-prebsc-1-s1.binance.org:8545/,"
+}
